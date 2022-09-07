@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap_oc",
+  "version": "1.0.0",
+  "description": "Portfolio BOOTSTRAP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max62c/BOOTSTRAP_OC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/max62c/BOOTSTRAP_OC/issues"
+  },
+  "homepage": "https://github.com/max62c/BOOTSTRAP_OC#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
