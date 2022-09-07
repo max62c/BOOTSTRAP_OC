@@ -18,5 +18,6 @@
   "homepage": "https://github.com/max62c/BOOTSTRAP_OC#readme",
   "dependencies": {
     "bootstrap": "^5.2.0"
-  }
+  },
+  "devDependencies": {}
 }
